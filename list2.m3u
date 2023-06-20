@@ -24,10 +24,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 #EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV MT
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png, RecordTV MT 2
+#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV MT 2
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:30 tvg-logo"https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png, RecordTV RN
+#EXTINF:30 tvg-logo"https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV RN
 #EXTVLCOPT:network-caching=1000
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:41 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV NDTV SC
