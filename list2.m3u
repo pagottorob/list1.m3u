@@ -1,154 +1,85 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp", TV Sim Cachoeiro
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp" group-title="ABERTA", TV Sim Cachoeiro
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp", TV Sim Colatina
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp" group-title="ABERTA", TV Sim Colatina
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp", TV Sim Linhares
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp" group-title="ABERTA", TV Sim Linhares
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp", TV Sim Sao Mateus
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp" group-title="ABERTA", TV Sim Sao Mateus
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp", TV Sim Vitória
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/652df97e161ddc78f689cf89457d389b.webp" group-title="ABERTA", TV Sim Vitória
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png", Record News Espirito Santo
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png" group-title="ABERTA", Record News Espirito Santo
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png",Record News - Rede Sim | Espírito Santo
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png" group-title="ABERTA",Record News - Rede Sim | Espírito Santo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png",Record News | Pluto TV Brasil
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png" group-title="ABERTA",Record News | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV MT
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png" group-title="ABERTA", RecordTV MT
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV MT 2
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png" group-title="ABERTA", RecordTV MT 2
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV RN
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png" group-title="ABERTA", RecordTV RN
 #EXTVLCOPT:network-caching=1000
 https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:41 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV NDTV SC
+#EXTINF:41 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png" group-title="ABERTA", RecordTV NDTV SC
 #EXTVLCOPT:network-caching=1000
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334", SBT GO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="ABERTA", SBT GO
 #EXTVLCOPT:network-caching=1000
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
-#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334",SBT Interior SP
+#EXTINF:32 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="ABERTA",SBT Interior SP
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:28 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334",SBT Interior (720p)
+#EXTINF:28 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="ABERTA",SBT Interior (720p)
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334",SBT Rede Massa (720p) [Not 24/7]
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="ABERTA",SBT Rede Massa (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334",SBT TV Jornal Caruaru (720p) [Not 24/7]
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png?20150423190334" group-title="ABERTA",SBT TV Jornal Caruaru (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #EXTVLCOPT:network-caching=1000
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",REDE TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",REDE TV
 http://168.205.87.198:8555/live/1431/123456/102.ts
-#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",REDE TV
+#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",REDE TV
 https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist_w731808340.m3u8
 http://168.205.87.198:8555/live/1431/123456/97.ts
-#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",RedeTV! TV Pampa-RS
+#EXTINF:30 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",RedeTV! TV Pampa-RS
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842", RedeTV! Tocantins
+#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",RedeTV! Tocantins
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:31 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842", RedeTV! TV Pantanal (MT)
+#EXTINF:31 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",RedeTV! TV Pantanal (MT)
 #EXTVLCOPT:network-caching=1000
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",Rede TV! Pampa (720p) [Not 24/7]
+#EXTINF:29 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",Rede TV! Pampa (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:32 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",RedeTV! Tocantins (720p) [Not 24/7]
+#EXTINF:32 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",RedeTV! Tocantins (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:32 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",RedeTV! Tocantins (720p) [Not 24/7]
+#EXTINF:32 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",RedeTV! Tocantins (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",REDE TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",REDE TV
 http://168.205.87.198:8555/live/1431/123456/102.ts
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",REDE TV HD1
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",REDE TV HD1
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:30 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png",RBATV (720p)
+#EXTINF:30 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="ABERTA",RBATV (720p)
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png",TV GUARAPARI
-#EXTVLCOPT:network-caching=1000
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png",TV GUARAPARI
-#EXTVLCOPT:network-caching=1000
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
-#EXTINF:30, RecordTV MT
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
-#EXTINF:32, RecordTV MT 2
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:30, RecordTV RN
-#EXTVLCOPT:network-caching=1000
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
-#EXTINF:41, RecordTV NDTV SC
-#EXTVLCOPT:network-caching=1000
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
-#EXTINF:0, SBT GO
-#EXTVLCOPT:network-caching=1000
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
-#EXTINF:32,SBT Interior SP
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:28,SBT Interior (720p)
-#EXTVLCOPT:network-caching=1000
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:30,SBT Rede Massa (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:30,SBT TV Jornal Caruaru (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-#EXTVLCOPT:network-caching=1000
-https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-
-#EXTINF:0,REDE TV
-http://168.205.87.198:8555/live/1431/123456/102.ts
-#EXTINF:29,REDE TV
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist_w731808340.m3u8
-http://168.205.87.198:8555/live/1431/123456/97.ts
-#EXTINF:30,RedeTV! TV Pampa-RS
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:29, RedeTV! Tocantins
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:31, RedeTV! TV Pantanal (MT)
-#EXTVLCOPT:network-caching=1000
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:29,Rede TV! Pampa (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
-#EXTINF:32,RedeTV! Tocantins (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:32,RedeTV! Tocantins (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0,REDE TV
-http://168.205.87.198:8555/live/1431/123456/102.ts
-#EXTINF:0,REDE TV HD1
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
-#EXTINF:30,RBATV (720p)
-#EXTVLCOPT:network-caching=1000
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-
-#EXTINF:30,TV GUARAPARI
+#EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png" group-title="ABERTA",TV GUARAPARI
 #EXTVLCOPT:network-caching=1000
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 
