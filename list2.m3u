@@ -76,7 +76,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 http://168.205.87.198:8555/live/1431/123456/102.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842" group-title="ABERTA",REDE TV HD1
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:30 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="ABERTA",RBATV (720p)
+#EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png" group-title="ABERTA",RBATV (720p)
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png" group-title="ABERTA",TV GUARAPARI
