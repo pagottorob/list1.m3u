@@ -21,7 +21,6 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b1/Logotipo_da_Record_News.png/220px-Logotipo_da_Record_News.png",Record News | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 #EXTINF:30 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b3/Logotipo_do_Grupo_Record.png/180px-Logotipo_do_Grupo_Record.png", RecordTV MT
 #EXTVLCOPT:network-caching=1000
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
@@ -78,12 +77,12 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 http://168.205.87.198:8555/live/1431/123456/102.ts
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png/revision/latest?cb=20110305125842",REDE TV HD1
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-
 #EXTINF:30 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png",RBATV (720p)
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-
+#EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png",TV GUARAPARI
+#EXTVLCOPT:network-caching=1000
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:30 tvg-logo="https://www.tvguarapari.com/wp-content/uploads/2019/08/Logo-capa-homepage-354X114.png",TV GUARAPARI
 #EXTVLCOPT:network-caching=1000
 http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
