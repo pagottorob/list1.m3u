@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:0, TV Sim Cachoeiro
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063466723591&tbnid=QqvKUAGY1jheWM&vet=12ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvsimoficial%2F&docid=ieZp6VS10adkHM&w=766&h=766&q=tv%20sim%20logomarca&ved=2ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC", TV Sim Cachoeiro
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, TV Sim Colatina
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063466723591&tbnid=QqvKUAGY1jheWM&vet=12ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvsimoficial%2F&docid=ieZp6VS10adkHM&w=766&h=766&q=tv%20sim%20logomarca&ved=2ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC", TV Sim Colatina
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8
-#EXTINF:0, TV Sim Linhares
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063466723591&tbnid=QqvKUAGY1jheWM&vet=12ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvsimoficial%2F&docid=ieZp6VS10adkHM&w=766&h=766&q=tv%20sim%20logomarca&ved=2ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC", TV Sim Linhares
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, TV Sim Sao Mateus
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063466723591&tbnid=QqvKUAGY1jheWM&vet=12ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvsimoficial%2F&docid=ieZp6VS10adkHM&w=766&h=766&q=tv%20sim%20logomarca&ved=2ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC", TV Sim Sao Mateus
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8
-#EXTINF:0, TV Sim Vitória
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100063466723591&tbnid=QqvKUAGY1jheWM&vet=12ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Ftvsimoficial%2F&docid=ieZp6VS10adkHM&w=766&h=766&q=tv%20sim%20logomarca&ved=2ahUKEwjaqIqM4tL_AhVCB9QKHc1DBOMQMygAegQIARBC", TV Sim Vitória
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8
-#EXTINF:0, Record News Espirito Santo
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fgkpb.com.br%2Fwp-content%2Fuploads%2F2016%2F10%2Fnovo-logo-record-news-vertical-2016.jpg&tbnid=26HiQW7DjOXaxM&vet=12ahUKEwj1nKG44tL_AhVKuZUCHRAdDv4QMygCegUIARDCAQ..i&imgrefurl=https%3A%2F%2Fgkpb.com.br%2F15625%2Fnovo-logo-record-news%2F&docid=lcCvzpSIB7WoMM&w=800&h=800&q=tv%20record%20news%20logomarca&ved=2ahUKEwj1nKG44tL_AhVKuZUCHRAdDv4QMygCegUIARDCAQ", Record News Espirito Santo
 #EXTVLCOPT:network-caching=1000
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0,Record News - Rede Sim | Espírito Santo
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2013%2F12%2Frecord-tv-logo.png&tbnid=EpNfoJB9qr128M&vet=12ahUKEwiPjKuuu9D_AhUDg5UCHZx5CIEQMygAegUIARDCAQ..i&imgrefurl=https%3A%2F%2Flogodownload.org%2Frede-record-logo%2F&docid=PqcChf-rWE-axM&w=3473&h=3333&q=logos%20de%20record&hl=pt-BR&ved=2ahUKEwiPjKuuu9D_AhUDg5UCHZx5CIEQMygAegUIARDCAQ",Record News - Rede Sim | Espírito Santo
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0,Record News | Pluto TV Brasil
+#EXTINF:0 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2013%2F12%2Frecord-tv-logo.png&tbnid=EpNfoJB9qr128M&vet=12ahUKEwiPjKuuu9D_AhUDg5UCHZx5CIEQMygAegUIARDCAQ..i&imgrefurl=https%3A%2F%2Flogodownload.org%2Frede-record-logo%2F&docid=PqcChf-rWE-axM&w=3473&h=3333&q=logos%20de%20record&hl=pt-BR&ved=2ahUKEwiPjKuuu9D_AhUDg5UCHZx5CIEQMygAegUIARDCAQ",Record News | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:30, RecordTV MT
