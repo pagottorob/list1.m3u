@@ -315,9 +315,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:0 group-title="RUN TIME", Record News
-https://stream.ads.ottera.tv/cl/230626cid10q2753pm62uknt80/960x540_1927200_1_f.m3u8?i=475_2153
-#EXTINF:0 group-title="RUN TIME", Ação
 https://stream.ads.ottera.tv/cl/230626cid10vthqgp6sel1ge90/1280x720_3071200_0_f.m3u8?i=475_5431
+#EXTINF:0 group-title="RUN TIME", Ação
+https://stream.ads.ottera.tv/cl/230626cid10q2753pm62uknt80/960x540_1927200_1_f.m3u8?i=475_2153
 #EXTINF:0 group-title="RUN TIME", Comédia
 https://stream.ads.ottera.tv/cl/230626cid11ob4di6gvt4k3mn0/1280x720_3071200_0_f.m3u8?i=475_2552
 #EXTINF:0 group-title="RUN TIME", Comédia
