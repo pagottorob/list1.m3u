@@ -12,7 +12,7 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:0 group-title="TV BR", SBT Rede Massa (PR)
 #EXTVLCOPT:network-caching=1000
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0 group-title="TV BR", SBT TV Guajará (PA)
+#EXTINF:0 group-title="TV BR", Rede TV! TV Guajará (PA)
 #EXTVLCOPT:network-caching=1000
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 EXTINF:0 group-title="TV BR", REDE TV
@@ -28,7 +28,7 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:0 group-title="TV BR", RedeTV! TV Arapuan HD (PB)
 #EXTVLCOPT:network-caching=1000
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:0 group-title="TV BR", RedeTV! RS
+#EXTINF:0 group-title="TV BR", RedeTV! TV Pampa RS
 #EXTVLCOPT:network-caching=1000
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:0 group-title="TV BR", TV Sim Cachoeiro
