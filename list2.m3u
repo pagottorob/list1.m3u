@@ -12,7 +12,7 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:0 group-title="TV BR", SBT Rede Massa (PR)
 #EXTVLCOPT:network-caching=1000
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-#EXTINF:0 group-title="TV BR", REDE TV ES.
+#EXTINF:0 group-title="TV BR", REDE TV ES
 https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
 #EXTINF:0 group-title="TV BR", Rede TV! TV Guajará (PA)
 #EXTVLCOPT:network-caching=1000
