@@ -12,6 +12,8 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:0 group-title="TV BR", SBT Rede Massa (PR)
 #EXTVLCOPT:network-caching=1000
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0 group-title="TV BR", REDE TV ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
 #EXTINF:0 group-title="TV BR", Rede TV! TV Guajará (PA)
 #EXTVLCOPT:network-caching=1000
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
@@ -314,8 +316,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b0
 #EXTINF:0 group-title="TV PLUTO", Tartarugas Ninja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:0 group-title="RUN TIME", REDE TV ES
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
 
 #EXTINF:0 group-title="RUN TIME", Comédia
 https://stream.ads.ottera.tv/cl/230628ciebjkov7e901m5mp2c0/1280x720_3071200_0_f.m3u8?i=475_2553
