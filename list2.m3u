@@ -99,6 +99,192 @@ https://cbsn-us.cbsnstream.cbsNEWS.com:443/out/v1/55a8648e8f134e82a470f83d562dee
 #EXTINF:0 group-title="TV BR", AWTV
 #EXTVLCOPT:network-caching=1000
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+#EXTINF:0 group-title="TV BR",A&E (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319206
+#EXTINF:0 group-title="TV BR",AMC (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319207
+#EXTINF:0 group-title="TV BR",Animal Planet (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319208
+#EXTINF:0 group-title="TV BR",Band (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319209
+#EXTINF:0 group-title="TV BR",Band News (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319210
+#EXTINF:0 group-title="TV BR",Bands Sports (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319211
+#EXTINF:0 group-title="TV BR",Canal Brasil (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319212
+#EXTINF:0 group-title="TV BR",Cinemax (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319213
+#EXTINF:0 group-title="TV BR",Combate (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319214
+#EXTINF:0 group-title="TV BR",Discovery Channel (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319215
+#EXTINF:0 group-title="TV BR",Discovery Kids (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319216
+#EXTINF:0 group-title="TV BR",Discovery Theather (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319217
+#EXTINF:0 group-title="TV BR",Discovery Turbo (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319218
+#EXTINF:0 group-title="TV BR",Discovery World (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319219
+#EXTINF:0 group-title="TV BR",ESPN 2 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319220
+#EXTINF:0 group-title="TV BR",ESPN 3 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319221
+#EXTINF:0 group-title="TV BR",ESPN 4 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319222
+#EXTINF:0 group-title="TV BR",ESPN Deportes (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319223
+#EXTINF:0 group-title="TV BR",ESPN Xtra (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319224
+#EXTINF:0 group-title="TV BR",Fox Sports 2 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319225
+#EXTINF:0 group-title="TV BR",Globo News (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319226
+#EXTINF:0 group-title="TV BR",Globo RJ (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319227
+#EXTINF:0 group-title="TV BR",Globo TV (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319228
+#EXTINF:0 group-title="TV BR",Gloobo Brasilia (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319229
+#EXTINF:0 group-title="TV BR",HBO (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319230
+#EXTINF:0 group-title="TV BR",HBO 2 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319231
+#EXTINF:0 group-title="TV BR",HBO Family (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319232
+#EXTINF:0 group-title="TV BR",HBO Signature (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319233
+#EXTINF:0 group-title="TV BR",HBO Pop (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319234
+#EXTINF:0 group-title="TV BR",HBO Xtreme (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319235
+#EXTINF:0 group-title="TV BR",HGTV (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319236
+#EXTINF:0 group-title="TV BR",History (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319237
+#EXTINF:0 group-title="TV BR",Lifetime (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319238
+#EXTINF:0 group-title="TV BR",Multishow (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319239
+#EXTINF:0 group-title="TV BR",Natgeo (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319240
+#EXTINF:0 group-title="TV BR",Paramount (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319241
+#EXTINF:0 group-title="TV BR",Premiere 2 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319242
+#EXTINF:0 group-title="TV BR",Premiere 3 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319243
+#EXTINF:0 group-title="TV BR",Premiere 4 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319244
+#EXTINF:0 group-title="TV BR",Premiere 6 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319245
+#EXTINF:0 group-title="TV BR",Premiere Clubes (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319246
+#EXTINF:0 group-title="TV BR",Rede TV (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319247
+#EXTINF:0 group-title="TV BR",Record (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319248
+#EXTINF:0 group-title="TV BR",Record News (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319249
+#EXTINF:0 group-title="TV BR",Sony (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319250
+#EXTINF:0 group-title="TV BR",Space (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319251
+#EXTINF:0 group-title="TV BR",Sportv (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319252
+#EXTINF:0 group-title="TV BR",Sportv 2 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319253
+#EXTINF:0,Sportv 3 (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319254
+#EXTINF:0 group-title="TV BR",Star Channel (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319255
+#EXTINF:0 group-title="TV BR",SyFy (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319256
+#EXTINF:0 group-title="TV BR",Telecine Action (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319257
+#EXTINF:0 group-title="TV BR",Telecine Cult (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319258
+#EXTINF:0 group-title="TV BR",Telecine Fun (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319259
+#EXTINF:0 group-title="TV BR",Telecine Pipoca (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319260
+#EXTINF:0 group-title="TV BR",TNT Series (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319261
+#EXTINF:0 group-title="TV BR",Viva (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319262
+#EXTINF:0 group-title="TV BR",Warner Channel (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319263
+#EXTINF:0 group-title="TV BR",AXN (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319264
+#EXTINF:0 group-title="TV BR",Discovery Home & Healt (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319265
+#EXTINF:0 group-title="TV BR",SBT (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319266
+#EXTINF:0 group-title="TV BR",TNT (BR)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/319267
 
 #EXTINF:0 group-title="TV PLUTO", Cine Sucessos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -328,3 +514,31 @@ https://stream.ads.ottera.tv/cl/230626cid10vthqgp6sel1ge90/1280x720_3071200_0_f.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=31a5b193f757ddf942efa1dfea88470b&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America×tamp=1687818333&id=2968&ip=177.133.91.87&override_expiration=1500&sign=5%2BZAAUQAHPqve4NTP9AcNnoV3hkIzRfTv0aAe6lZ10A%3D
 #EXTINF:0 group-title="RUN TIME", Crime
 https://stream.ads.ottera.tv/cl/230626cid127s3pat706ld8t2g/1280x720_3071200_0_f.m3u8?i=475_2553
+
+#EXTINF:0 group-title="TV ITALIA",Sky Sports MotoGP HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34730
+#EXTINF:0 group-title="TV ITALIA",Sky Sports Arena HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34731
+#EXTINF:0 group-title="TV ITALIA",Sky Sports Tennis HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34732
+#EXTINF:0 group-title="TV ITALIA",Sky Sports F1 HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34733
+#EXTINF:0 group-title="TV ITALIA",Sky Sports UNO HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34735
+#EXTINF:0 group-title="TV ITALIA",Sky Sports AEW / WWE HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34736
+#EXTINF:0 group-title="TV ITALIA",Sky Sports NBA HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34737
+#EXTINF:0 group-title="TV ITALIA",Sky Sports Action HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34738
+#EXTINF:0 group-title="TV ITALIA",Sky Sports 24 Premier League HQ (IT)
+#EXTVLCOPT:network-caching=1000
+http://hidra.live:80/tcuqjdul/8Vc4Wcam58/34739
